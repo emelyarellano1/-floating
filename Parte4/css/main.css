@@ -1,0 +1,30 @@
+.contenedor{
+    height:25%;
+	width:500px;
+	border:1px solid #D8D8D8;
+}
+.contenedor:after{
+    content:"";
+    display:block;
+    clear:both;
+    }
+.cuadrados {
+    width:25%;
+	height:100px;
+	background-color:#F4FA58;
+	float:left;
+}
+.cuadrados1 {
+    width:25%;
+	height:100px;
+	background-color:#0080FF;
+	float:left;
+	
+}
+.cuadrados2 {
+    width:25%;
+	height:100px;
+	background-color:#FE2E2E;
+	float:left;
+}
+
